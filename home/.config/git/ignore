@@ -1,0 +1,13 @@
+# Global gitignore (git reads $XDG_CONFIG_HOME/git/ignore by default)
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+.env.local
+.direnv/
+__pycache__/
+node_modules/
